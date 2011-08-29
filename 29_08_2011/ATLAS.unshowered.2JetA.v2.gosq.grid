@@ -1,3 +1,19 @@
+# ____________________________ ATLAS CUTS ________________________________ 
+#|       Grid for ATLAS.unshowered.2JetA.v2.gosq.grid Cut Acceptences               |
+#|  First Entry   : Squark Mass                                           |
+#|  Second Entry  : Gluiono Mass                                          |
+#|  Third Entry   : Neutralino1 Mass                                      |
+#|  Fourth Entry  : Neutralino2 Mass                                      |
+#|  Fifth Entry   : relative Cut Acceptence for only pT Cuts              |
+#|  Sixth Entry   : relative Cut Acceptence for only mET Cuts             |
+#|  Seventh Entry : relative Cut Acceptence for only delta phi            |
+#|                  Cuts of two jets                                      |
+#|  Eighth Entry  : relative Cut Acceptence for all Cuts                  |
+#|  Ninth Entry   : relative Cut Acceptence for all Cuts + 0L             |
+#|  Tenth Entry   : relative Cut Acceptence for all Cuts + 0L + Meff      |
+#|  Eleventh Entry: relative Cut Acceptence for all Cuts + 0L + Meff + ST |
+#|________________________________________________________________________|
+#m_sq	m_go	m_n1	m_n2	rel_cut_pt	rel_cut_mET	rel_cut_dphi	rel_cut_all	rel_cut_all_0L	rel_cut_all_0L_Meff	rel_cut_all_0L_Meff_St
 200	200	0	160	0.19949		0.38118		0.9014		0.11249		0.11249		0.092855			-1e+06
 200	200	0	80	0.34317		0.51216		0.92898		0.19079		0.19079		0.14957			-1e+06
 200	200	0	0	0.4172		0.5543		0.92803		0.24339		0.24339		0.18752			-1e+06

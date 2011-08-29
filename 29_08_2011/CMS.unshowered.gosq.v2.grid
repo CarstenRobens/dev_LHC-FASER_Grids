@@ -1,3 +1,18 @@
+# ___________________________________ CMS CUTS __________________________________________ 
+#|       Grid for CMS.unshowered.gosq.v2.grid Cut Acceptences                              |
+#|  First Entry   : Squark Mass                                                          |
+#|  Second Entry  : Gluiono Mass                                                         |
+#|  Third Entry   : Neutralino1 Mass                                                     |
+#|  Fourth Entry  : Neutralino2 Mass                                                     |
+#|  Fifth Entry   : Combined Preselection (Jet, Isolated Photon/Lepton)                  |
+#|  Sixth Entry   : relative Cut Acceptence for only H_T Cut + Combined Preselection     |
+#|  Seventh Entry : relative Cut Acceptence for only Hquer_T Cut + Combined Preselection |
+#|  Eighth Entry  : relative Cut Acceptence for alpha_T Cut + Combined Preselection      |
+#|  Ninth Entry   : relative Cut Acceptence for delta_phi Cut + Combined Preselection    |
+#|  Tenth Entry   : relative Cut Acceptence for H_T Cut + Hquer_T Cut + alpha_T Cut +    |
+#|                  delta_phi Cut + Combined Preselection                                |
+#|_______________________________________________________________________________________|
+#m_sq	m_go	m_n1	m_n2	rel_cut_pre	rel_cut_H_T	rel_cut_Hquer_T	rel_cut_alpha_T	rel_cut_delta_phi	rel_cut_all
 200	200	0	160	0.057845		0.020914		0.049089		0.0056808		0.056096		0.00027617
 200	200	0	80	0.12775		0.03951		0.10391		0.0097031		0.12541		0.00027917
 200	200	0	0	0.16823		0.058411		0.13916		0.015737		0.16412		0.000481
