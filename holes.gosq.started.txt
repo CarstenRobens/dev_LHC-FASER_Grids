@@ -1,0 +1,112 @@
+cr647112@cluster:~/Jobs/BRIDGE/gosq[848]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 650 0
+^[[AYour job 3678876 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[849]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 650 1
+Your job 3678877 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[850]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 700 0
+Your job 3678878 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[851]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 700 1
+Your job 3678879 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[852]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 750 0
+Your job 3678881 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[853]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 750 1
+Your job 3678882 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[854]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 800 0
+Your job 3678883 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[855]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 800 1
+Your job 3678884 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[856]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 850 0
+Your job 3678885 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[857]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 850 1
+Your job 3678886 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[858]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 900 0
+Your job 3678887 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[859]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 900 1
+Your job 3678888 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[860]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 950 0
+Your job 3678889 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[861]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 950 1
+Your job 3678891 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[863]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1000 0
+Your job 3678893 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[864]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1000 1
+Your job 3678894 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[869]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1050 0
+Your job 3682108 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[870]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1050 1
+Your job 3682109 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[871]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1100 0
+Your job 3682110 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[872]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1100 1
+Your job 3682111 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[873]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1150 0
+Your job 3682112 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[874]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1150 1
+Your job 3682113 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[875]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1200 0
+Your job 3682114 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[876]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1200 1
+Your job 3682116 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[877]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1250 0
+Your job 3682117 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[878]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1250 1
+Your job 3682118 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[879]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1300 0
+Your job 3682119 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[880]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1300 1
+Your job 3682120 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[881]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1350 0
+Your job 3682123 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[882]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1350 1
+Your job 3682124 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[883]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1400 0
+Your job 3682126 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[884]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1400 1
+Your job 3682127 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[885]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1450 0
+Your job 3682128 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[886]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1450 1
+Your job 3682129 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[888]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1500 0
+Your job 3682140 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[889]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1500 1
+Your job 3682141 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[890]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1550 0
+Your job 3682142 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[891]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1550 1
+Your job 3682143 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[892]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1600 0
+Your job 3682144 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[893]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1600 1
+Your job 3682145 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[894]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1650 0
+Your job 3682146 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[895]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1650 1
+Your job 3682147 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[896]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1700 0
+Your job 3682148 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[897]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1700 1
+Your job 3682149 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[898]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1750 0
+Your job 3682150 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[899]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1750 1
+Your job 3682151 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[900]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1800 0
+Your job 3682152 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[901]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1800 1
+Your job 3682153 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[903]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1850 0
+Your job 3682167 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[904]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1850 1
+Your job 3682171 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[905]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1900 0
+Your job 3682182 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[906]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1900 1
+Your job 3682183 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[907]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1950 0
+Your job 3682184 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[908]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 1950 1
+Your job 3682185 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[909]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 2000 0
+Your job 3682186 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/gosq[910]$ qsub ppTOgosq_BRIDGE_decay_smart_single.sh 750 2000 1
+Your job 3682187 ("ppTOgosq_BRIDGE_decay_smart_single.sh") has been submitted

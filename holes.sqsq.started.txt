@@ -1,0 +1,24 @@
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[828]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1750 0
+Your job 3678513 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[829]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1750 1
+Your job 3678514 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[830]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1800 0
+Your job 3678521 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[831]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1800 1
+Your job 3678522 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[832]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1850 0
+Your job 3678524 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[833]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1850 1
+Your job 3678525 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[834]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1900 0
+Your job 3678528 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[835]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1900 1
+Your job 3678529 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[836]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1950 0
+Your job 3678530 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[837]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 1950 1
+Your job 3678537 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[838]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 2000 0
+Your job 3678540 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
+cr647112@cluster:~/Jobs/BRIDGE/sqsq[839]$ qsub ppTOsqsq_BRIDGE_decay_normal_single.sh 550 2000 1
+Your job 3678541 ("ppTOsqsq_BRIDGE_decay_normal_single.sh") has been submitted
